@@ -232,3 +232,4 @@ You can switch to other `sentence-transformers` if needed for queries.
 MIT License. Free to use with attribution.
 
 ---
+
